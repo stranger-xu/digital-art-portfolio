@@ -82,4 +82,4 @@ The platform is optimized for search engines with:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed by me dont use it, only for project purposes >:(
